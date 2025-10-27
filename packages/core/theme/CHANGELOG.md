@@ -1,5 +1,13 @@
 # @heroui/theme
 
+## 2.4.24
+
+### Patch Changes
+
+- [#5816](https://github.com/heroui-inc/heroui/pull/5816) [`b38a2cf`](https://github.com/heroui-inc/heroui/commit/b38a2cfb58feb79b3baff10eff19e21480da1563) Thanks [@wingkwong](https://github.com/wingkwong)! - fix tab cursor (#5790, #5809)
+
+- [#5815](https://github.com/heroui-inc/heroui/pull/5815) [`1782961`](https://github.com/heroui-inc/heroui/commit/17829618591d723beea665a7c56d9c45a112e24c) Thanks [@Vishesh-Verma-07](https://github.com/Vishesh-Verma-07)! - Fix spinner animation (#5794)
+
 ## 2.4.23
 
 ### Patch Changes

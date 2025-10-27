@@ -1,5 +1,14 @@
 # @heroui/spinner
 
+## 2.2.25
+
+### Patch Changes
+
+- [#5815](https://github.com/heroui-inc/heroui/pull/5815) [`1782961`](https://github.com/heroui-inc/heroui/commit/17829618591d723beea665a7c56d9c45a112e24c) Thanks [@Vishesh-Verma-07](https://github.com/Vishesh-Verma-07)! - Fix spinner animation (#5794)
+
+- Updated dependencies []:
+  - @heroui/system-rsc@2.3.20
+
 ## 2.2.24
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @heroui/tabs
 
+## 2.2.25
+
+### Patch Changes
+
+- [#5816](https://github.com/heroui-inc/heroui/pull/5816) [`b38a2cf`](https://github.com/heroui-inc/heroui/commit/b38a2cfb58feb79b3baff10eff19e21480da1563) Thanks [@wingkwong](https://github.com/wingkwong)! - fix tab cursor (#5790, #5809)
+
 ## 2.2.24
 
 ### Patch Changes

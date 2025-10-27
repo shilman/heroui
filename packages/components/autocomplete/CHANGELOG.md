@@ -1,5 +1,19 @@
 # @heroui/autocomplete
 
+## 2.3.30
+
+### Patch Changes
+
+- [#5827](https://github.com/heroui-inc/heroui/pull/5827) [`2922b35`](https://github.com/heroui-inc/heroui/commit/2922b35644d8136d593ce08cccf9c78c08d00e0f) Thanks [@wingkwong](https://github.com/wingkwong)! - fix close button display in autocomplete on mobile (#5826)
+
+- Updated dependencies []:
+  - @heroui/button@2.2.28
+  - @heroui/form@2.1.28
+  - @heroui/input@2.4.29
+  - @heroui/listbox@2.3.26
+  - @heroui/popover@2.3.28
+  - @heroui/scroll-shadow@2.3.18
+
 ## 2.3.29
 
 ### Patch Changes
